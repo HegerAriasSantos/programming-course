@@ -2,20 +2,46 @@
 
 # Recursos
 
+### Documentacion
+-  typescript: https://www.typescriptlang.org/docs
+-  javascript: https://developer.mozilla.org/en-US/
+-  html: https://developer.mozilla.org/en-US/docs/Web/HTML
+-  css: https://developer.mozilla.org/en-US/docs/Web/CSS
+-  nodejs: https://nodejs.org/api/
+-  git: https://git-scm.com/docs
+-  npm: https://docs.npmjs.com/
+-  react: https://reactjs.org/docs/getting-started.html
+-  angular: https://angular.io/docs
+-  vue: https://vuejs.org/v2/guide/
+-  bootstrap: https://getbootstrap.com/docs/4.5/getting-started/introduction/
+-  sass: https://sass-lang.com/documentation
+-  tailwind: https://tailwindcss.com/docs
+-  materialize: https://materializecss.com/getting-started.html
+-  bulma: https://bulma.io/documentation/
+-  material-ui: https://material-ui.com/getting-started/usage/
+-  ant-design: https://ant.design/docs/react/introduce
+-  react-bootstrap: https://react-bootstrap.github.io/getting-started/introduction/
+- nestjs: https://docs.nestjs.com/
+- express: https://expressjs.com/es/api.html
+- mongodb: https://docs.mongodb.com/manual/
+- mysql: https://dev.mysql.com/doc/
+
+### Juegos que te enseñan
 - pagina que te enseña jugando: https://codecombat.com/premium
-
-- documentacion de typescript: https://www.typescriptlang.org/docs
-
-- lista de videos introductorios a la programacion: https://www.youtube.com/watch?v=AEiRa5xZaZw&list=PLyvsggKtwbLVva0XXvoqx91iaLmhgeNy7
-
 - juego de css grid: https://cssgridgarden.com/
 - juego de css flexbox: https://flexboxfroggy.com/
-- freecodecamp, plataforma de cursos autodidactas en los cuales puedes obtener certificados: https://www.freecodecamp.org/
+
+### Youtube canales
+
+- lista de videos introductorios a la programacion: https://www.youtube.com/watch?v=AEiRa5xZaZw&list=PLyvsggKtwbLVva0XXvoqx91iaLmhgeNy7
 - canales de programacion que recomiendo:
   - midudev: https://www.youtube.com/@midudev
   - freecodecamp: https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
   - fazt: https://www.youtube.com/@FaztTech
 
+### Cursos
+
+- freecodecamp, plataforma de cursos autodidactas en los cuales puedes obtener certificados: https://www.freecodecamp.org/
 
 # Ruta de aprendizaje
 - Teoria de las diferentes area de la programacion.
