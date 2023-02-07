@@ -60,8 +60,10 @@
     
     -  de videojuegos.
     -  de iteligencia artificial.
-    -  de sistemas embebidos.
-     
+    -  de sistemas embebidoso.
+    - internet de las cosas
+
+  ### avance   
 
 -  Teoria grande de como funcinan los programas en el computador:
    - que es un lenguaje de programacion.
