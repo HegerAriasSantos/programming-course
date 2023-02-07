@@ -43,6 +43,11 @@
 
 - freecodecamp, plataforma de cursos autodidactas en los cuales puedes obtener certificados: https://www.freecodecamp.org/
 
+### Repositorios interesantes
+
+- 50 proyectos en 50 dias: https://github.com/Nahuel61920/50-Proyectos-en-50-dias
+
+
 # Ruta de aprendizaje
 - Teoria de las diferentes area de la programacion.
  - que es la programacion.
