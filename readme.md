@@ -47,6 +47,15 @@
 
 - 50 proyectos en 50 dias: https://github.com/Nahuel61920/50-Proyectos-en-50-dias
 
+### Ejecutador de typescript en linea
+
+https://www.typescriptlang.org/play/
+o
+
+### Retos de programacion
+
+leetcode: https://leetcode.com/problemset/all/
+
 
 # Ruta de aprendizaje
 - Teoria de las diferentes area de la programacion.
@@ -68,7 +77,6 @@
     -  de sistemas embebidoso.
     - internet de las cosas
 
-  ### avance   
 
 -  Teoria grande de como funcinan los programas en el computador:
    - que es un lenguaje de programacion.
@@ -84,7 +92,7 @@
    - como se ejecuta el codigo.
    - como se ejecuta el codigo en paralelo.
 
-- estructuras de control con raptor.
+  ### avance   
 
 - teoria/practica programacion.
  - Teoria
@@ -93,12 +101,12 @@
   - que es un editor de codigo.
   - que es un IDE
   - que es un CLI
+
  - Instalacion
   - instalacion de vsc
   - instalacion de git
   - Instalacion de nodejs
   - Instalacion y ejecucion de typescript
-
  - Practica
   - Hola mundo en typescript
   - Variables y tipos de datos
