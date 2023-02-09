@@ -98,15 +98,7 @@ leetcode: https://leetcode.com/problemset/all/
  - Teoria
   - que es un algoritmo.
   - que es un pseudocodigo.
-  - que es un editor de codigo.
-  - que es un IDE
-  - que es un CLI
-
- - Instalacion
-  - instalacion de vsc
-  - instalacion de git
-  - Instalacion de nodejs
-  - Instalacion y ejecucion de typescript
+  
  - Practica
   - Hola mundo en typescript
   - Variables y tipos de datos
@@ -134,6 +126,16 @@ leetcode: https://leetcode.com/problemset/all/
       - encapsulamiento
       - polimorfismo
       - desafio de un crud usando todo lo anterior de poo 
+
+- que es un editor de codigo.
+  - que es un IDE
+  - que es un CLI
+
+ - Instalacion
+  - instalacion de vsc
+  - instalacion de git
+  - Instalacion de nodejs
+  - Instalacion y ejecucion de typescript
 - Terminal:
   - que es la terminal
   - comandos basicos
