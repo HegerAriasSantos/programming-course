@@ -51,3 +51,5 @@ segundo iteracion
 PD: iteracion es cada ejecucion de una estructura de control ciclica
 
 */
+
+const value = prompt('algo Jevi');

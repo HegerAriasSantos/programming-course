@@ -9,12 +9,15 @@
 // };
 // //  datos primitivos
 
-let numerico: number = 10;
-let texto: string = "hola mundo";
-let boleano: boolean = true;
-let indefinido: undefined = undefined;
-let vacio: null = null;
-let NaN2 = Number("hola"); // NaN es un tipo de dato que se crea cuando se hace una mala conversion de string a numero
+
+
+let numerico: number = 10
+let texto: string = `10`
+let boleano: boolean = true
+let indefinido: undefined = undefined
+let vacio: null = null
+let NaN2 = Number("hola") // NaN es un tipo de dato que se crea cuando se hace una mala conversion de string a numero
+// isNaN(NaN2)
 
 // // datos complejos
 
@@ -44,36 +47,37 @@ let arreglo2: Array<number | string> = [
 
 // // Numericos
 // console.log(5 + 5); // + operador suma
-// console.log("hola " + "mundo");
+// console.log("hola " + "mundo"); // "hola mundo"
 
 // // - resta
-// // * multiplicacion
+// // * multiplicacion 
 // // / division
 // // ** potencia
-// // % modulo
-// // ejemplos de moudlo
+// // % modulo 
+// // ejemplos de modulo
 // console.log(12 % 2); // 0
 // console.log(24 % 8); // 5
 // // para saber si es par
 // console.log(20 % 2); // 0
 
 // // comparacion
+
 // // para igualdad  ==
-// // console.log(5 === 10)
+// // console.log(5 == 10) // false
 
 // ! =  !=  no es igual
 
-// // mayor que  >=
+// // mayor que  5 >= 5  true
 // // menor que  <=
 
 // // Logicos
-let isAraay: boolean = false;
+let isAraay: boolean = true;
 let isAlgo: boolean = false;
 
 // // ambos && And
 // // uno u otro || OR
 
-console.log(isAlgo && isAraay);
+console.log(isAlgo && isAraay) // false ;
 
 // Estructura de control
 
