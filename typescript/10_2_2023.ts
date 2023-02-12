@@ -15,7 +15,7 @@ if (edad != null && parseInt(edad) >= 18) {
 
 // forma corta
 if (edad != null && parseInt(edad) >= 18) console.log('eres mayor de edad')
-else if (edad != null && parseInt(edad) <= 18) console.log('eres menor de edad')
+else if (edad != null && parseInt(edad) < 18) console.log('eres menor de edad')
 
 
 // programa que imprima por consola los numeros del 1 al 100. si el numero es divisible por 3
@@ -23,7 +23,7 @@ else if (edad != null && parseInt(edad) <= 18) console.log('eres menor de edad')
 // numero imprimir la palabra buzz y si es divisible por ambos imprimir fizzbuzz.
 
 // 1, 2, fizz, 4 , buzz, fizz, 7, 8, fizz, buzz, 11, fizz, 13, 14, fizzbuzz, ...
-for (let i = 1; i <= 100; i++) {
+for (let i = 1; i <= 100; i += 2) {
   if (i % 3 == 0 && i % 5 == 0) console.log('fizzbuzz')
   else if (i % 5 == 0) console.log('buzz')
   else if (i % 3 == 0) console.log('fizz')
@@ -42,24 +42,21 @@ for (let i = 1; i <= 100; i++) {
 // let a = null || "hola"
 // template literal  `asdfssff ${a}`
  
-// let n = Number(prompt("Dame la cantidad de iteraciones") || "")
 
-//   let a = 0; 
-//   let b = 1;
-//   let c = 0;
-//   let result = ""
-
-//   // 0 1
-
-
-// for (let i = 1; i <= n; i++) {
-//   c  = a + b;
-//   a  = b;
-//   b  = c;
+let n = Number(prompt("Dame la cantidad de iteraciones") || "")
+  let a = 0; 
+  let b = 1;
+  let c = 0;
+  let result = ""
+  // 0 1 1 2
+for (let i = 1; i <= n; i++) {
+  c  = a + b;
+  a  = b;
+  b  = c;
   
-//   result += `${a} -> `
-//   console.log(`a = ${a}, b = ${b}, c = ${c}`)
-// }
+  result += `${a} -> `
+  console.log(`a = ${a}, b = ${b}, c = ${c}`)
+}
 
 
 // Hecho con recursividad

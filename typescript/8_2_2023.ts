@@ -81,9 +81,9 @@ console.log(isAlgo && isAraay) // false ;
 
 // Estructura de control
 
-let a = 10; // variable
-var c = 20; // variable (no usar)
-const b = 20; // constante
+// let a = 10; // variable
+// var c = 20; // variable (no usar)
+// const b = 20; // constante
 
 a = 20;
 // b = 30;
