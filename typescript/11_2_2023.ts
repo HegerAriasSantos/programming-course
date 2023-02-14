@@ -31,21 +31,21 @@
 
 */
 
-// const altura = Number(prompt("Dame la cantidad de iteraciones") || "");
+const altura = Number(prompt("Dame la cantidad de iteraciones") || "");
 
-// let texto = "*";
-// let espacio = " ";
-// let ultimaLinea = altura * 2 - 1;
-// let numeroEspacios = (ultimaLinea - 1) / 2;
+let texto = "*";
+let espacio = " ";
+let ultimaLinea = altura * 2 - 1;
+let numeroEspacios = (ultimaLinea - 1) / 2;
 
-// // forma imperactiva
-// for (let i = 1; i <= altura; i++) {
-// 	let espaciosLinea: string = ""; 
-// 	for (let espacios = 1; espacios <= numeroEspacios; espacios++) espaciosLinea += espacio;
-// 	console.log(espaciosLinea + texto + espaciosLinea);
-// 	texto += "**";
-// 	numeroEspacios--;
-// }
+// forma imperactiva
+for (let i = 1; i <= altura; i++) {
+	let espaciosLinea: string = ""; 
+	for (let espacios = 1; espacios <= numeroEspacios; espacios++) espaciosLinea += espacio;
+	console.log(espaciosLinea + texto + espaciosLinea);
+	texto += "**";
+	numeroEspacios--;
+}
 
 // numeroEspacios = 1;
 
@@ -80,29 +80,37 @@
     *
 */
 
-const altura = Number(prompt("Dame la cantidad de iteraciones") || "");
 
-let texto = "*";
-let espacio = " ";
-let ultimaLinea = altura * 2 - 1;
-let numeroEspacios = (ultimaLinea - 1) / 2;
+// const altura = Number(prompt("Dame la cantidad de iteraciones") ?? "") 
 
-// forma imperactiva
-for (let i = 1; i <= altura; i++) {
-	let espaciosLinea: string = ""; 
-	for (let espacios = 1; espacios <= numeroEspacios; espacios++) espaciosLinea += espacio;
-	console.log(espaciosLinea + texto + espaciosLinea);
-	if(texto.length !== ultimaLinea) texto += "**";
-	numeroEspacios--;
-}
+// let texto = "*";
+// let espacio = " ";
+// let ultimaLinea = altura * 2 - 1;
+// let numeroEspacios = 10;
 
-numeroEspacios = 1;
-texto = texto.slice(0, -2);
+// console.log('hola' + "hola") // holahola
 
-for (let i = 1; i <= altura - 1; i++) {
-	let espaciosLinea: string = ""; 
-	for (let espacios = 1; espacios <= numeroEspacios; espacios++) espaciosLinea += espacio;
-	console.log(espaciosLinea + texto + espaciosLinea);
-	texto = texto.slice(0,-2);
-	numeroEspacios++;
-}
+// let algo = ""
+// algo += "otra cosa";
+// console.log(algo) // otra cosa
+
+// // forma imperactiva
+// for (let i = 1; i <= altura; i++) {
+// 	let espaciosLinea: string = ""; 
+// 	for (let espacios = 1; espacios <= numeroEspacios; espacios++) espaciosLinea += espacio;
+// 	console.log(espaciosLinea + texto + espaciosLinea);
+// 	if(texto.length !== ultimaLinea) texto += "**";
+// 	numeroEspacios--;
+// }
+
+// numeroEspacios = 1;
+// texto = texto.slice(0, -2);
+
+// for (let i = 1; i <= altura - 1; i++) {
+// 	let espaciosLinea: string = ""; 
+// 	for (let espacios = 1; espacios <= numeroEspacios; espacios++) espaciosLinea += espacio;
+// 	console.log(espaciosLinea + texto + espaciosLinea);
+// 	texto = texto.slice(0,-2);
+// 	numeroEspacios++;
+// }
+
