@@ -112,9 +112,10 @@ leetcode: https://leetcode.com/problemset/all/
       - Funciones flecha
       - Funciones recursivas
       - Funciones puras.
-    # avance   
       - Funciones de orden superior.
+    # avance   
       - metodos de objeto y array.
+      - agregar metodos a los array u objetos.
       - Desafio de algoritmo (fibonacci, factorial, two sum, etc)
     - Programacion orientada a objetos
       - Objetos
