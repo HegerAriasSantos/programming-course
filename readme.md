@@ -92,7 +92,7 @@ leetcode: https://leetcode.com/problemset/all/
    - como se ejecuta el codigo.
    - como se ejecuta el codigo en paralelo.
 
-  ### avance   
+
 
 - teoria/practica programacion.
  - Teoria
@@ -112,6 +112,7 @@ leetcode: https://leetcode.com/problemset/all/
       - Funciones flecha
       - Funciones recursivas
       - Funciones puras.
+    # avance   
       - Funciones de orden superior.
       - metodos de objeto y array.
       - Desafio de algoritmo (fibonacci, factorial, two sum, etc)
