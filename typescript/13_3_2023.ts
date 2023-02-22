@@ -163,8 +163,4 @@ ej del menu:
 4 - dividir
 5 - crear triangulo e imprimirlo por consola.
 
-
-
-
-
 */

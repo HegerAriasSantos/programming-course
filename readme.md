@@ -56,6 +56,10 @@ o
 
 leetcode: https://leetcode.com/problemset/all/
 
+### Para ver cosas hechas por otros developers 
+
+https://codepen.io/
+
 
 # Ruta de aprendizaje
 - Teoria de las diferentes area de la programacion.
@@ -117,17 +121,7 @@ leetcode: https://leetcode.com/problemset/all/
       - metodos de objeto y array.
       - agregar metodos a los array u objetos.
       - Desafio de algoritmo (fibonacci, factorial, two sum, etc)
-    - Programacion orientada a objetos
-      - Objetos
-      - Clases
-      - Interfaces
-      - Namespaces
-      - Generics
-      - Herencia
-      - abstraccion
-      - encapsulamiento
-      - polimorfismo
-      - desafio de un crud usando todo lo anterior de poo 
+   
 
 - que es un editor de codigo.
   - que es un IDE
@@ -146,15 +140,7 @@ leetcode: https://leetcode.com/problemset/all/
   - npm
   - nodejs
   - typescript
-  
-  - Estructuras de datos:
-  - Arreglos
-  - Objetos
-  - Mapas
-  - Sets
-  - lista enlazada
-  - cola
-  - pila
+   
 
 
 - Programacion web (html, css, javascript, typescript, navegador)
@@ -176,6 +162,7 @@ leetcode: https://leetcode.com/problemset/all/
       - videos
       - audio
       - iframes
+      - subir pagina a github pages
     - introduccion a css
       - selectores
       - propiedades
@@ -221,8 +208,28 @@ leetcode: https://leetcode.com/problemset/all/
         - que es un contexto
         - que es un router
         - crud con react y typescript
+        - projecto: portafolio profesional
 
-  
+  - Programacion orientada a objetos
+      - Objetos
+      - Clases
+      - Interfaces
+      - Namespaces
+      - Generics
+      - Herencia
+      - abstraccion
+      - encapsulamiento
+      - polimorfismo
+      - desafio de un crud usando todo lo anterior de poo 
+
+  - Estructuras de datos:
+  - Arreglos
+  - Objetos
+  - Mapas
+  - Sets
+  - lista enlazada
+  - cola
+  - pila
       
 - programacion web backend (typescript, mongodb, mysql, nodejs, express, nestjs)
   - que es un servidor

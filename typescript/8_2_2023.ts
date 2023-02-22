@@ -10,12 +10,12 @@
 // //  datos primitivos
 
 let numerico: number = 10;
-let texto: string = `10`;
+// let texto: string = `10`;
 let boleano: boolean = true;
 let indefinido: undefined = undefined;
 let vacio: null = null;
 let NaN2 = Number("hola"); // NaN (Not a Number) es un tipo de dato que se crea cuando se hace una mala conversion de string a numero
- isNaN(NaN2)
+isNaN(NaN2);
 
 // // datos complejos
 
@@ -182,9 +182,9 @@ do {
 
 // la funcion consta de 3 partes: inputs (datos que se le da o parametros), proceso (lo que sucede dentro de la funcion), salida: valor que se retorna de la funcion
 
-function sumar(a: number, b: number): number {
-	return a + b;
-}
+// function sumar(a: number, b: number): number {
+// 	return a + b;
+// }
 
 console.log(sumar(5, 5));
 
