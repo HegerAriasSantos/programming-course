@@ -5,10 +5,17 @@ function sumar(a: number, b: number): number {
 // arrow function
 const sumarFlecha = (a: number, b: number): number => a + b;
 
+/**
+ * hola bobo
+ * @param {number} a - number -&gt; The first parameter is a number
+ * @param {number} b - number
+ * @returns The function sumarFlecha2 is being returned.
+ */
 const sumarFlecha2 = (a: number, b: number): number => {
 	return a + b;
 };
 
+sumarFlecha2;
 /// Function anonima
 
 const sumar2 = function () {
@@ -43,6 +50,8 @@ console.log(factorial(5));
 // function impura
 let algK = 10;
 function impura(a: number, b: number): number {
+	console.log("🚀 ~ file: 17_2_2023.ts:53 ~ impura ~ a:", a);
+
 	return a + b + Math.random() * algK++;
 }
 
